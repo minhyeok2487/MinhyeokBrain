@@ -1,6 +1,6 @@
 # Minhyeok's Brain
+---
+### Computer Sicence
 
-## Computer Sicence
-
-### [[네트워크 기초]]
+#### [[네트워크]]
 

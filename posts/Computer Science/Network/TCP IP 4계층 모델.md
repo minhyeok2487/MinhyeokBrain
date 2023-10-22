@@ -1,5 +1,7 @@
-
-![[Pasted image 20231016215652.png]]
+---
+tags: CS, Network
+---
+![](https://i.imgur.com/P5mCl45.png)
 
 ## 애플리케이션 계층
 * FTP, HTTP, SSH, SMTP, DNS 등 응용 프로그램이 사용되는 프로토콜 계층

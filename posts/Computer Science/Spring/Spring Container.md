@@ -78,16 +78,16 @@ public class AppConfig {
 
 ## 스프링 컨테이너 생성 과정
 ### 1. 스프링 컨테이너 생성
-![[Spring-Container01 1.png]]
+![](https://i.imgur.com/GfSIdrP.png)
 - 스프링 컨테이너를 생성할때는 구성 정보를 지정해야함
 
 ### 2. 스프링 빈 등록
-![[Pasted image 20231019234709.png]]
+![](https://i.imgur.com/WDtE1Od.png)
 - 스프링 컨테이너는 파라미터로 넘어온 설정 클래스 정보를 사용해서 스프링 빈을 등록
 - 빈이름 직접 부여 가능 *(주의! 빈 이름은 항상 다른 이름 부여)*
 
 ### 3. 스프링 빈 의존관계 설정 - 준비
-![[Pasted image 20231019234828.png]]
+![](https://i.imgur.com/cSjVH4N.png)
 
 ### 4. 스프링 빈 의존관계 설정 - 완료
-![[Pasted image 20231019234850.png]]
+![](https://i.imgur.com/boy9zrr.png)

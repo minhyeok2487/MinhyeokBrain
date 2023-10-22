@@ -4,9 +4,7 @@
 - 계층을 나눈 이유는 통신이 일어나는 과정이 단계별로 파악할 수 있기 때문입니다.
 	- 흐름을 한눈에 알아보기 쉽고, 사람들이 이해하기 쉽다
 	- 7단계 중 특정한 곳에 이상이 생기면 다른 단계의 장비 및 소프트웨어를 건들이지 않고도 이상이 생긴 단계만 고칠수 있기 때문입니다.
-
-![](https://blog.kakaocdn.net/dn/ctQYc0/btrFFDxk15I/gj2SXIewPgjXZoqa9jHulk/img.png)
-
+![](https://i.imgur.com/AT39uxR.png)
 ### **1계층 - 물리계층(Physical Layer)**
 - 전기적, 기계적, 기능적인 특성을 이용해서 통신 케이블로 데이터를 전송
 - 데이터 전송 단위 : 비트
@@ -38,4 +36,4 @@
 - 사용자 프로그램의 네트워크 서비스 제공
 - 데이터 전송 단위 : 메시지(message)
 
-![](https://blog.kakaocdn.net/dn/bzHUm7/btrFGfbPKZV/IZU3egCAb8r16MlkH71mq1/img.png)
+![](https://i.imgur.com/Vb2eOTn.png)
